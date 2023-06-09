@@ -1,4 +1,4 @@
-from Shape import Shape
+from antra.Shape import Shape
 
 
 class Rectangle(Shape):
